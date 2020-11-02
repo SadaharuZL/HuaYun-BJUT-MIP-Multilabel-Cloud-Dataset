@@ -5,7 +5,14 @@ The pictures in HBMMCD (HuaYun BJUT multilabel MIP Cloud Dataset) are from the p
 Finally, The classification results of the pictures have been recognized by the professional staff of HUAYUN SOUDING company.
 
 ![csv](https://github.com/SadaharuZL/HuaYun-BJUT-MIP-Multilabel-Cloud-Dataset/blob/main/csv.png)
+
 Fig.1 csv
+
+
+
+
+
+
 
 Table 1 The corresponding relationship between cloud categories and digital labels
 Category  | Number  | 
@@ -23,7 +30,7 @@ Category  | Number  |
  Sc  | 10 | 
  
  ## Access
- You can download HBMCDv1 through [Download_Link](https://github.com/SadaharuZL/HuaYun-BJUT-MIP-Multilabel-Cloud-Dataset/blob/main/Download_Link).
+ You can download HBMMCDthrough [Download_Link](https://github.com/SadaharuZL/HuaYun-BJUT-MIP-Multilabel-Cloud-Dataset/blob/main/Download_Link).
 
  ## Others
- More details about the HBMCD dataset can be found in the following paper and please cite the this paper if you use the HBMMCD dataset.(Not yet published)
+ More details about the HBMMCD dataset can be found in the following paper and please cite the this paper if you use the HBMMCD dataset.(Not yet published)
