@@ -26,4 +26,4 @@ Category  | Number  |
  You can download HBMCDv1 through [Download_Link](https://github.com/SadaharuZL/HuaYun-BJUT-MIP-Cloud-Dataset/blob/master/Download_Link).
 
  ## Others
- More details about the HBMCD dataset can be found in the following paper and please cite the this paper if you use the HBMCD dataset.(Not yet published)
+ More details about the HBMCD dataset can be found in the following paper and please cite the this paper if you use the HBMMCD dataset.(Not yet published)
